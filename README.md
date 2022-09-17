@@ -7,7 +7,7 @@
 ## My Progress on Github
 ![Lucas Heilbuth's Github Status](https://github-readme-stats.vercel.app/api?username=LucasHeilbuth&show_icons=true)
 
-[![Mos Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mos Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHeilbuth&layout=compact)](https://github.com/LucasHeilbuth/github-readme-stats)
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
