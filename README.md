@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Lucas, a Python developer specializing in data science
+## I'm Lucas, a **Python developer** specializing in **Data Science**
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
