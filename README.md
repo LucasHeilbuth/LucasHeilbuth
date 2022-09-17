@@ -1,5 +1,7 @@
-### Hi there 👋
-> Titulo
+# Hi there 👋
+<h1>Heading</h1>
+
+<h2>Sub-heading</h2>
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
