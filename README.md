@@ -8,7 +8,7 @@ The Libraries that i most use in Pyhton are **Pandas**, Keras Tensorflow, Matplo
 
 ![Lucas Heilbuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHeilbuth&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lucas%20Heilbuth's%20GitHub%20Stats&text_bold=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHeilbuth&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHeilbuth&theme=tokyonight)
 
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
