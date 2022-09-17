@@ -5,7 +5,7 @@
 ## Technologies Used
 > The Libraries that i most use in Pyhton are Pandas, Keras Tensorflow, Matplotlib, Seaborn and OpenCV
 ## My Progress on Github
-![Lucas Heilbuth's Github Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Lucas Heilbuth's Github Status](https://github-readme-stats.vercel.app/api?username=LucasHeilbuth&show_icons=true)
 
 [![Mos Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
