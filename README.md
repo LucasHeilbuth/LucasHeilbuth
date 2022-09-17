@@ -1,7 +1,5 @@
 # Hi there 👋
-<h1>Heading</h1>
-
-<h2>Sub-heading</h2>
+## I'm Lucas, a Python developer specializing in data science
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
