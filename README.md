@@ -4,8 +4,8 @@
 * 📫 How to reach me: Find me in [Linkedin](linkedin.com/in/lucas-heilbuth) or Email me: lucasheilbuth@yahoo.com.br
 ## Technologies Used
 > The Libraries that i most use in Pyhton are Pandas, Keras Tensorflow, Matplotlib, Seaborn and OpenCV
-## My Progress on Github
-![Lucas Heilbuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHeilbuth&count_private=true)
+## About
+![Lucas Heilbuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHeilbuth&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHeilbuth&layout=compact)](https://github.com/LucasHeilbuth/github-readme-stats)
 <!--
