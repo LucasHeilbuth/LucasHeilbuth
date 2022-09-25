@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lucas, a Python developer specializing in Data Science
 * 🔭 I'm currently working on extract, analyze, transform and visualize data to Onimusic
 * 🌱 I’m currently learning about training and validating neural network models
-* 📫 How to reach me: Find me in [Linkedin](linkedin.com/in/lucas-heilbuth) or Email me: lucasheilbuth@yahoo.com.br
+* 📫 How to reach me: Find me in [Linkedin](https://www.linkedin.com/in/lucas-heilbuth) or Email me: lucasheilbuth@yahoo.com.br
 ### Technologies Used
 The Libraries that i most use in Pyhton are **Pandas**, **Keras**, **Tensorflow**, **Matplotlib**, **Seaborn** and **OpenCV**
 ### Stats
