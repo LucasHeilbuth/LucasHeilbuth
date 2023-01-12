@@ -5,7 +5,7 @@
 ### Technologies Used
 The Libraries that i most use in Pyhton are **Pandas**, **Keras**, **Tensorflow**, **Matplotlib**, **Seaborn** and **OpenCV**
 ### Stats
-![Lucas Heilbuth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasheilbuth&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lucas%20Heilbuth's%20GitHub%20Stats&text_bold=true)
+![Lucas Heilbuth's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasheilbuth&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lucas%20Heilbuth's%20GitHub%20Stats&text_bold=true)
 <!--
 **LucasHeilbuth/LucasHeilbuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
