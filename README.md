@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lucas, a Python developer specializing in Data Science
-* 🔭 I'm currently working on extract, analyze and transform data on Onimusic
+* 🔭 I'm currently working on extract, analyze and transform data
 * 🌱 I’m currently learning about django
 * 📫 How to reach me: Find me in [Linkedin](https://www.linkedin.com/in/lucas-heilbuth) or Email me: lucasheilbuth@yahoo.com.br
 ### Technologies Used
