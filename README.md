@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Lucas, a Python developer specializing in Data Science
-* 🔭 I'm currently working on extract, analyze and transform data
-* 🌱 I’m currently learning about django
+### Hi there 👋 I'm Lucas, a Automotive Engineer specialized on INCOSE Requirements
+* 🔭 I'm currently working on V&V Facet and Write Requirements on INCOSE standard.
+* 🌱 I’m currently learning about Machine Learning
 * 📫 How to reach me: Find me in [Linkedin](https://www.linkedin.com/in/lucas-heilbuth) or Email me: lucasheilbuth@yahoo.com.br
 ### Technologies Used
-The Libraries that i most use in Pyhton are **Pandas**, **Keras**, **Tensorflow**, **Matplotlib**, **Seaborn** and **Pytest**
+The Libraries that I most use in Pyhton are **Pandas**, **Keras**, **Tensorflow**, **Matplotlib**, **Seaborn** and **Pytest**
 ### Stats
 ![Lucas Heilbuth's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasheilbuth&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lucas%20Heilbuth's%20GitHub%20Stats&text_bold=true)
 <!--
